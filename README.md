@@ -330,13 +330,7 @@ sudo nano /etc/hosts
 He associat la IP del servidor amb el domini:
 
 ```text
-<IP_DEL_SERVIDOR> servidor.thos.local
-```
-
-Per exemple, durant la configuració inicial de la pràctica:
-
-```text
-192.168.56.101 servidor.thos.local
+192.168.102.110 servidor.thos.local
 ```
 
 D'aquesta manera es pot accedir al servidor utilitzant:
